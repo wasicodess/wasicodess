@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**wasicodess/wasicodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Wasi Khan
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Engineering Student at VJTI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 MERN Stack & Backend Developer
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- System Design
+
+🚀 Interested in Backend Development and AI
+
+📫 Reach me at:
+mwkhanb23@gmail.com
