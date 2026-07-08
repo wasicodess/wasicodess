@@ -1,39 +1,71 @@
-
-
 <div align="center">
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Wasi+Khan+%F0%9F%91%8B;Backend+%26+MERN+Stack+Developer;B.Tech+CE+%40+VJTI+Mumbai" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Wasi%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Computer+Engineering+Student+at+VJTI;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀"/>
+
+<p>
+<a href="https://github.com/wasicodess">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://linkedin.com/in/wasi-khan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mwkhanb23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 </div>
 
-<br/>
+---
 
-## 🧰 Tech Stack
+# 👋 About Me
+
+🎓 B.Tech Computer Engineering student at **VJTI Mumbai**
+
+💻 Passionate **Backend Developer** with experience building scalable web applications using the **MERN Stack**.
+
+🚀 Currently focused on:
+
+- 🌐 Backend Development
+- 📚 Data Structures & Algorithms
+- 🤖 Machine Learning
+- ⚙️ System Design
+- 🌍 Open Source Contributions
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,html,css,nodejs,express,flask,mongodb,mysql,sqlite,redis,git,github,linux,vscode,postman,aws" />
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+
+### ⚒️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
 
 </div>
 
-<br/>
-
-## 🐍 Snake Game
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wasicodess/wasicodess/output/github-contribution-grid-snake-dark.svg" width="100%" />
+![](https://komarev.com/ghpvc/?username=wasicodess&style=for-the-badge&color=blue)
 
 </div>
 
-<details>
-<summary>⚙️ How to enable this</summary>
-<br/>
-
-1. Add a GitHub Actions workflow at `.github/workflows/snake.yml` using <a href="https://github.com/Platane/snk">Platane/snk</a>.
-2. It auto-generates `github-contribution-grid-snake-dark.svg` on an `output` branch from your real contributions.
-3. Point the `<img>` src above to that file in your repo.
-
-</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
